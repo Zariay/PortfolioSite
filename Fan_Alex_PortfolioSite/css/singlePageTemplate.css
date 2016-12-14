@@ -83,15 +83,6 @@ ul li:hover a {
 	letter-spacing: 4px;
 }
 /* Hero Section */
-.homebanner {
-	background-color: #2D9AB7;
-	background-image: url(../images/background1.png);
-	height: 1000px;
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
-	text-align: center;
-}
 .light {
 	font-weight: bold;
 	color: #717070;
@@ -126,7 +117,7 @@ ul li:hover a {
 }
 .aboutbanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/background2.png);
+	background-image: url(../images/warmBG3.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -184,7 +175,7 @@ ul li:hover a {
 }
 .gallerybanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/background3.png);
+	background-image: url(../images/warmBG2.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -223,7 +214,7 @@ ul li:hover a {
 }
 .contactbanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/background4.png);
+	background-image: url(../images/warmBG4.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -232,7 +223,7 @@ ul li:hover a {
 }
 .demoreelbanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/background5.png);
+	background-image: url(../images/warmBG1.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
