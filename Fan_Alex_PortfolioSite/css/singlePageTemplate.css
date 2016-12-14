@@ -117,7 +117,7 @@ ul li:hover a {
 }
 .aboutbanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/warmBG3.png);
+	background-image: url(../images/warmBG1.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -223,7 +223,7 @@ ul li:hover a {
 }
 .demoreelbanner {
 	background-color: #2D9AB7;
-	background-image: url(../images/warmBG1.png);
+	background-image: url(../images/warmBG3.png);
 	height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
